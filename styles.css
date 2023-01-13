@@ -1,0 +1,90 @@
+@font-face {
+    font-family: amallia;
+    src: url(Amallia.ttf);
+} 
+@font-face {
+    font-family: Bellinda;
+    src: url(Bellinda.ttf);
+
+}
+body{
+    margin: 0;
+}
+#lang{
+   
+    border: none;
+    
+
+}
+#ig-font{
+   
+    font-family: amallia;
+    font-size: 40px;
+}
+.holder{
+    border: 1px solid rgb(224, 222, 222);
+    display: block;
+    text-align: center;
+    background: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 50px 50px 0px 50px;
+    margin: auto;
+    font-family: Helvetica, Arial, sans-serif;
+}
+#fb-logo{
+    width: 300px;
+    border-radius: 8px;
+    
+}
+#or{
+    color: #b7b9bb;
+}
+.input-login{
+    
+    background: none ;
+    width: 270px;
+    border: 1px solid #dddfe2;
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 0px 16px;
+    height: 38px;
+    margin-bottom: 10px;
+    outline-color: #1877f2;
+    outline-width: 1px;
+    
+
+    
+}
+#forget-password{
+    font-weight:bold;
+    margin-left: 54%;
+}
+.anchor{
+    
+    color: #1877f2;
+}
+
+.btn{
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 30px;
+    width: 300px;
+    padding: 10px;
+    background: #1877f2;
+    color: aliceblue;
+    border-radius: 8px;
+    border: 0px;
+    font-weight: bold;
+    font-size: 14px;
+}
+#signup{
+    margin: 40px 0px 150px 0px;
+    color: gray;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
